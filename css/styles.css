@@ -28,6 +28,9 @@ button {
 }
 img {
   display: block;
+  max-width: 100%;
+  height: auto;
+
 }
 
 .sections-subtitle {
@@ -310,7 +313,7 @@ img {
   max-width: 264px;
 }
 
-.header-logo {
+.footer-link {
   display: inline-block;
   margin-bottom: 16px;
 }
