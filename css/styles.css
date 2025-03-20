@@ -180,6 +180,7 @@ img {
 }
 
 .main-btn {
+  border: none;
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -193,7 +194,7 @@ img {
   min-width: 169px;
   border-radius: 4px;
   height: 56px;
-  bottom: none;
+  
 }
 
 .main-btn:hover,
@@ -287,7 +288,7 @@ img {
  }
 
  .portfolio-subtitle {
-  border-bottom: 8px;
+  margin-bottom: 8px;
  }
 
 
