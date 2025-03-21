@@ -1,3 +1,5 @@
+/* _________________________Global clear styles______________________________________________ */
+
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -32,6 +34,10 @@ img {
   height: auto;
 
 }
+
+
+
+/* _________________________Global clear styles______________________________________________ */
 
 .sections-subtitle {
   font-weight: 500;
@@ -177,6 +183,7 @@ img {
   max-width: 496px;
   margin: 0 auto;
   margin-bottom: 48px;
+  text-align: center;
 }
 
 .main-btn {
